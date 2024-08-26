@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself and my jou
 
 ## About Me
 
-I'm Olivia, a 26-year-old development enthusiast from Nantes (France) with a passion from web development to low-level programming. My interests span across many facets of computer science, and I love dedicating my free time to coding and expanding my knowledge in the field.
+So I'm a 27-year-old development enthusiast from Nantes (France) with a passion from web development to low-level programming. My interests span across many facets of computer science, and I love dedicating my free time to coding and expanding my knowledge in the field.
 
 ### Interests and Hobbies
 
