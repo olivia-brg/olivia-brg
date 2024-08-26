@@ -19,15 +19,13 @@ So I'm a 27-year-old development enthusiast from Nantes (France) with a passion 
 
 My diverse interests allow me to blend technical know-how with creativity, making me a versatile and innovative developer. I'm always eager to learn new things and expand my horizons. Whether it's building a useful piece of software or designing a visually stunning website, I strive to give my all in everything I do.
 
-## Projects and Contributions
+<!--## Projects and Contributions
 
-Feel free to explore my repositories to see some of the projects I've worked on. From web applications to low-level programming exercises, I aim to showcase my skills and continuous learning journey.
+Feel free to explore my repositories to see some of the projects I've worked on. From web applications to low-level programming exercises, I aim to showcase my skills and continuous learning journey.-->
 
 ## Connect with Me
 
-I'm always open to connecting with like-minded individuals, collaborating on exciting projects, or just having a chat about tech, music, or design. Don't hesitate to reach out!
+I'm always open to connecting with like-minded individuals, collaborating on exciting projects, so don't hesitate to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/olivia-bergaglia-438684302/)
 - [Email](mailto:olivia.bergaglia@gmail.com)
-
-Thank you for visiting my profile! I'm looking forward to connecting with you and exploring new opportunities together.
