@@ -13,7 +13,6 @@ So I'm a 27-year-old development enthusiast from Nantes (France) with a passion 
 - **Sports**: Staying active is important to me, and I love engaging in various sports activities.
 - **Electronic Music**: I'm an avid fan of electronic music, which fuels my creativity and concentration.
 - **Graphic Design**: Combining my technical skills with my creative side, I enjoy designing visually appealing graphics and websites.
-- **Event Planning**: I have a knack for organizing and attending events, blending my love for coordination and social interactions.
 
 ### What Drives Me
 
