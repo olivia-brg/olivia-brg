@@ -11,20 +11,20 @@ I'm a 27-year-old French developer from Nantes who is passionate about both low-
 - **Web Development**: My current area of expertise is web development, where I want to build dynamic, user-friendly websites.
 - **Low-Level Programming**: I'm quite interested in understanding computer systems' intricate workings and creating effective code.
 - **Sports**: Staying active is important to me, and I love engaging in various sports activities.
-- **Electronic Music**: I'm an avid fan of electronic music, which fuels my creativity and concentration.
-- **Graphic Design**: Combining my technical skills with my creative side, I enjoy designing visually appealing graphics and websites.
+- **Electronic Music**: I love electronic music a lot, particularly drum and bass.
+- **Graphic Design**: I like to create visually appealing graphics and websites by combining my technical expertise with my creative side.
 
 ### What Drives Me
 
-My diverse interests allow me to blend technical know-how with creativity, making me a versatile and innovative developer. I'm always eager to learn new things and expand my horizons. Whether it's building a useful piece of software or designing a visually stunning website, I strive to give my all in everything I do.
+I am a flexible and creative developer because of my wide range of interests, which enable me to combine creativity and technical expertise. I'm constantly keen to expand my horizons and learn new things. I try to put my best into whatever I do, whether it's creating a great website or a functional piece of software.
 
-<!--## Projects and Contributions
+## Projects and Contributions
 
-Feel free to explore my repositories to see some of the projects I've worked on. From web applications to low-level programming exercises, I aim to showcase my skills and continuous learning journey.-->
+Feel free to explore my repositories to see some of the projects I've worked on!
 
 ## Connect with Me
 
-I'm always open to connecting with like-minded individuals, collaborating on exciting projects, so don't hesitate to reach out!
+Please don't hesitate to get in touch with me; I'm always interested in meeting like-minded people and working together on exciting projects!
 
 - [LinkedIn](https://www.linkedin.com/in/olivia-bergaglia-438684302/)
 - [Email](mailto:olivia.bergaglia@gmail.com)
