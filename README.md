@@ -1,15 +1,15 @@
-# Hi, I'm Olivia 👋
+# Hello, I'm Olivia 👋
 
-Welcome to my GitHub profile! I'm excited to share a bit about myself and my journey in the world of development.
+Here is my GitHub profile, welcome! I'm excited to introduce myself and my journey in the field of development.
 
-## About Me
+## Concerning Me
 
-So I'm a 27-year-old development enthusiast from Nantes (France) with a passion from web development to low-level programming. My interests span across many facets of computer science, and I love dedicating my free time to coding and expanding my knowledge in the field.
+I'm a 27-year-old French developer from Nantes who is passionate about both low-level programming and web development. I'm interested in a lot of different aspects of computer science, and I enjoy learning more about the subject via coding in my own time.
 
 ### Interests and Hobbies
 
-- **Web Development**: My primary focus, where I enjoy creating interactive and user-friendly websites.
-- **Low-Level Programming**: I have a keen interest in understanding the intricacies of computer systems and writing efficient code.
+- **Web Development**: My current area of expertise is web development, where I want to build dynamic, user-friendly websites.
+- **Low-Level Programming**: I'm quite interested in understanding computer systems' intricate workings and creating effective code.
 - **Sports**: Staying active is important to me, and I love engaging in various sports activities.
 - **Electronic Music**: I'm an avid fan of electronic music, which fuels my creativity and concentration.
 - **Graphic Design**: Combining my technical skills with my creative side, I enjoy designing visually appealing graphics and websites.
